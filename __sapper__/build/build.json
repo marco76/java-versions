@@ -1,0 +1,45 @@
+{
+  "bundler": "rollup",
+  "shimport": "2.0.3",
+  "assets": {
+    "main": "client.6cdcbd94.js"
+  },
+  "css": {
+    "main": [
+      "client-e118e612.css"
+    ]
+  },
+  "dependencies": {
+    "index.svelte": [
+      "index.19a8c326.js",
+      "inject_styles.88de199d.js",
+      "index-39716d32.css"
+    ],
+    "about.svelte": [
+      "about.1ea664eb.js",
+      "DataTableFeature.682be61e.js",
+      "inject_styles.88de199d.js",
+      "DataTableFeature-ad101a20.css",
+      "about-9116dc04.css"
+    ],
+    "blog/index.svelte": [
+      "index.d0e2ba09.js",
+      "inject_styles.88de199d.js",
+      "index-7ed37c94.css"
+    ],
+    "blog/[slug].svelte": [
+      "[slug].ee57d5fd.js",
+      "inject_styles.88de199d.js",
+      "[slug]-5bc8f95f.css"
+    ],
+    "java/[release].svelte": [
+      "[release].b3d2faee.js",
+      "DataTableFeature.682be61e.js",
+      "inject_styles.88de199d.js",
+      "DataTableFeature-ad101a20.css"
+    ]
+  },
+  "legacy_assets": {
+    "main": "client.3adc474c.js"
+  }
+}
